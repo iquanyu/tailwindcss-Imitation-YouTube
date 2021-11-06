@@ -10,3 +10,5 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## 屏幕截图
 
 ![home](https://github.com/iquanyu/tailwindcss-Imitation-YouTube/blob/main/screenshot-home.png)
+
+![explore](https://github.com/iquanyu/tailwindcss-Imitation-YouTube/blob/main/screenshot-explore.png)
